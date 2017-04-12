@@ -20,7 +20,7 @@ use "pip install"
 1. pip install elasticsearch
 2. pip install scipy~.whl
 3. pip install numpy+mkl~.whl
-4. pipinstall image_match
+4. pip install image_match
 ```
 
 # Code (Similarity between 2 images)
