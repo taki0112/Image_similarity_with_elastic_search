@@ -1,6 +1,6 @@
 # Image_match
 ## Find the original image of the converted image & Similarty between many images
-* Python implementation of [image_match](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.2585&rep=rep1&type=pdf) papers
+* Python implementation of [Libpuzzle algorithm papers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.2585&rep=rep1&type=pdf)
 * Find similar images within 1 second (No matter how many images there are)
 
 ## Requirements
