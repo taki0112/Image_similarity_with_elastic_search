@@ -27,7 +27,7 @@ converted_image = "C:/test/modified_image.jpg" # converted image
 for(path, dir, files) in os.walk(original_image_folder) :
     for filename in files :
         path_file = os.path.join(path,filename)
-        ext = os.path.splitext(filename)[1] # 파일 확장자
+        ext = os.path.splitext(filename)[1] # File extensions
         if ext in extensions :
             if(os.path.getsize(path_fil e) == 0) :
                 pass
