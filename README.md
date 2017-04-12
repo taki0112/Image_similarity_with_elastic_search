@@ -1,6 +1,7 @@
 # Image_match
 ## Find the original image of the converted image & Similarty between many images
 * Python implementation of [image_match](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.104.2585&rep=rep1&type=pdf) papers
+* Find similar images within 1 second
 
 ## Requirements
 * Python 3.5
