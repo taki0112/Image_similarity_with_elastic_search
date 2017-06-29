@@ -24,7 +24,7 @@ use "pip install"
 ```
 
 # Code (Similarity between 2 images)
-```bash
+```python
 from image_match.goldberg import ImageSignature
 
 gis = ImageSignature()
